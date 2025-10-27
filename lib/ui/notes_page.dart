@@ -176,7 +176,7 @@ class _NotesPageState extends State<NotesPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Offline-First Notes'),
+        title: const Text('Project 4'),
         actions: [
           // Simple Online/Offline switch in the AppBar
           Row(
